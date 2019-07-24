@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background: #fc354c; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #fc354c, #0abfbc); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #fc354c, #0abfbc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
+
+.card-back { 
+        color: white;
+        font-size: 20px;
+        background-color: black;
+        opacity: .5;
+        
+        margin: auto;
+        padding: 1rem;
+    }
